@@ -55,3 +55,9 @@ Every reported experiment should include:
 - Exact command used to produce the result.
 
 Preliminary results must be labeled as preliminary until the dataset, split, baseline, and benchmark scripts are independently reproducible.
+
+## Documentação do Código-Fonte
+
+A documentação do código-fonte do projeto está em `docs/codigo-fonte.md`.
+
+A partir desta mudança, novos conteúdos do repositório devem ser escritos em PT-BR. Consulte `AGENTS.md` para a regra de idioma do projeto.
