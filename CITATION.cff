@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "ConvNeXt-AV1: Partition Decision Research Pipeline"
+authors:
+  - family-names: "Rosa"
+    given-names: "Pablo"
+date-released: "2026-06-30"
+version: "0.1.0"
+repository-code: "https://github.com/pablorosa/convnext-av1"
+license: "MIT"
+abstract: "Research code for AV1 partition decision modeling with ConvNeXt adapters and libaom-derived ground truth."
